@@ -1,0 +1,18 @@
+minicoda
+ - numpy
+    - Numpy arrays have one dtype for the eintre array
+ -pandas
+    - While pandas DataFrames have one dtype per column.
+
+ -matplotlib
+
+vscode extentions for jupyter notebook.
+
+
+make conda enviornment
+
+conda create -n 'name' python='version_of_python'
+conda activate 'name_as_above'
+conda install ipykernel
+conda install -c conda-forge numpy panda "or ther dependencies"
+
