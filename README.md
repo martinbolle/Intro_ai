@@ -10,3 +10,6 @@ exploring a little through the pandas framework.
 # Lab 2 - Data
 Second data oriented lab with more data vleaning and feature engineering. 
 For this lab we got a Picture of a table made out of the titanic.csv file. Our task was to re-create this table with featuring engineering.
+
+# Lab 3 - NLP Topic Modeling (part1)
+NPL time. Throughout this lab I'll get a light intro to using modern ML libraries to do beginner level topic modeling on youtube titles, with data from a kraggle data-set.
