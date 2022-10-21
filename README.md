@@ -13,3 +13,8 @@ For this lab we got a Picture of a table made out of the titanic.csv file. Our t
 
 # Lab 3 - NLP Topic Modeling (part1)
 NPL time. Throughout this lab I'll get a light intro to using modern ML libraries to do beginner level topic modeling on youtube titles, with data from a kraggle data-set. This lab I'll be provided with some code that we have not learn yet, but this is to get an introduction and some general understanding of how ML modeling works
+
+# Lab 4 - 
+
+
+# Lab 5 - 
